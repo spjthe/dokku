@@ -1,7 +1,7 @@
 DOKKU_VERSION = master
 
 SSHCOMMAND_URL ?= https://raw.github.com/progrium/sshcommand/master/sshcommand
-PLUGINHOOK_URL ?= https://s3.amazonaws.com/progrium-pluginhook/pluginhook_0.1.0_amd64.deb
+PLUGINHOOK_URL ?= https://www.dropbox.com/s/bp9fjqyredrxgum/pluginhook_0.1.0_armhf.deb
 STACK_URL ?= https://github.com/progrium/buildstep.git
 PREBUILT_STACK_URL ?= https://s3.amazonaws.com/progrium-dokku/progrium_buildstep_79cf6805cf.tgz
 DOKKU_ROOT ?= /home/dokku
